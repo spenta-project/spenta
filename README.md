@@ -1,0 +1,3 @@
+# Spenta Coin
+
+Spenta currency
